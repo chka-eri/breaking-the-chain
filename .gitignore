@@ -6,8 +6,13 @@ node_modules/
 # Expo
 .expo/
 dist/
+dist-merge/
 web-build/
 expo-env.d.ts
+
+# editor / local tooling
+.vscode/
+.idea/
 
 # Native
 .kotlin/
